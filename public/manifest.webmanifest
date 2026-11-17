@@ -1,0 +1,19 @@
+{
+  "name": "SKOL Classic · Cronometraje Oficial",
+  "short_name": "SKOL Classic",
+  "description": "PWA Offline-First de cronometraje deportivo SKOL Classic para carreras de 4 km (Duplas) y 6 km (Individuales)",
+  "lang": "es-AR",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#080B09",
+  "theme_color": "#080B09",
+  "icons": [
+    {
+      "src": "/skol-logo.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ]
+}

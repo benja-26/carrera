@@ -1,0 +1,10 @@
+node_modules
+dist
+.netlify
+.env
+.env.local
+scripts/.*.mjs
+tsconfig.tsbuildinfo
+desktop.ini
+.DS_Store
+*.log
